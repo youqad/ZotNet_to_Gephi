@@ -1,0 +1,692 @@
+*node data 
+key creator date title publication
+M57GJBPI 'Abramsky et al.' '2002-10' 'Geometry of Interaction and Linear Combinatory Algebras' 'Mathematical. Structures in Comp. Sci.'
+CZZ2XX98 'Andreatta et al.' '2013' 'Towards a Categorical Theory of Creativity for Music, Discourse, and Cognition' ''
+NLYWA8LV 'Baas and Emmeche' '1997' 'On Emergence and Explanation' 'Intellectica. Revue de lAssociation pour la Recherche Cognitive'
+UEPY899P 'Baez and Otter' '2015' 'Operads and Phylogenetic Trees' ''
+NJJ973VS 'Bartels et al.' '2003-07-01' 'A hierarchy of probabilistic system types' 'Electronic Notes in Theoretical Computer Science'
+2SF4HXU2 'Battaglia et al.' '2018-06-04' 'Relational inductive biases, deep learning, and graph networks' 'arXiv:1806.01261 [cs, stat]'
+GJM77Q9K 'Baudart et al.' '2019-08-20' 'Reactive Probabilistic Programming' 'arXiv:1908.07563 [cs]'
+TAVCTA3B 'Baydin et al.' '2018-02-05' 'Automatic differentiation in machine learning: a survey' 'arXiv:1502.05767 [cs, stat]'
+J8JZZA9M 'Blute et al.' '2019-07-04' 'Differential Categories Revisited' 'Applied Categorical Structures'
+FV5LDYQ8 'Blute et al.' '2010-06-16' 'A convenient differential category' 'arXiv:1006.3140 [cs, math]'
+Y777JN9G 'Borchert' '2019-11-25' 'amzn/milan' ''
+2QNGGQ9S 'Borgström et al.' '2017-01-23' 'A Lambda-Calculus Foundation for Universal Probabilistic Programming' 'arXiv:1512.08990 [cs]'
+C6JKS3XF 'Boutillier et al.' '2018-07-01' 'The Kappa platform for rule-based modeling' 'Bioinformatics'
+PY9KP68T 'Boutillier et al.' 'no date' 'The Kappa Language and Kappa Tools' ''
+ZSQSX5Z4 'Brown and Porter' '2008-02-10' 'Category Theory and Higher Dimensional Algebra: potential descriptive tools in neuroscience' 'arXiv:math/0306223'
+K6XGAUQB 'Brown et al.' '2018-05-16' 'Adversarial Patch' 'arXiv:1712.09665 [cs]'
+6E5G37Y8 'Castellan et al.' '2018' 'The concurrent game semantics of Probabilistic PCF' ''
+2XU4WNRW 'Cho et al.' '2015-12-17' 'An Introduction to Effectus Theory' 'arXiv:1512.05813 [quant-ph]'
+XWGUNSSB 'Clerc et al.' '2017-01' 'Pointless learning (long version)' ''
+58Y4A3DE 'Culbertson and Sturtz' '2013-12-05' 'Bayesian machine learning via category theory' 'arXiv:1312.1445 [math]'
+NR73ULRM 'Dal Lago and Hoshino' '2019-06-01' 'The Geometry of Bayesian Programming' ''
+9U834V9S 'Danos and Harmer' '2000-02-01' 'Probabilistic game semantics' ''
+8ZG2Q8M6 'Danos et al.' '2008' 'Rule-Based Modelling, Symmetries, Refinements' ''
+VWWVS23T 'de Vink and Rutten' '1997' 'Bisimulation for probabilistic transition systems: A coalgebraic approach' ''
+DE76QJUW 'Desharnais et al.' '2002-12-15' 'Bisimulation for Labelled Markov Processes' 'Information and Computation'
+TMXD5LPP 'Dong et al.' '2019-04-26' 'Neural Logic Machines' 'arXiv:1904.11694 [cs, stat]'
+VGQW4TCY 'Ehresmann' '2012' 'MENS, an Info-Computational Model for (Neuro-)cognitive Systems Capable of Creativity' 'Entropy'
+M7MTGMYF 'Ehresmann' '2018' 'Applications of Categories to Biology and Cognition' ''
+5GJLBF7K 'Ehresmann and Gomez-Ramirez' '2015-12-01' 'Conciliating neuroscience and phenomenology via category theory' 'Progress in Biophysics and Molecular Biology'
+H7Y7YZ4L 'Ehrhard' '2019-02-13' 'Differentials and distances in probabilistic coherence spaces' 'arXiv:1902.04836 [cs]'
+CEDIC9GM 'Ehrhard' '2016-06-06' 'An introduction to Differential Linear Logic: proof-nets, models and antiderivatives' 'arXiv:1606.01642 [cs]'
+HC3Q9Q86 'Ehrhard and Danos' '2011-06-01' 'Probabilistic coherence spaces as a model of higher-order probabilistic computation' 'Information and Computation'
+PV3KNRMI 'Ehrhard and Regnier' '2003-12-02' 'The differential lambda-calculus' 'Theoretical Computer Science'
+NZACPAF3 'Ehrhard and Regnier' '2006-11-06' 'Differential interaction nets' 'Theoretical Computer Science'
+RE3KFCZ8 'Ehrhard and Tasson' 'no date' 'Probabilistic call by push value' 'arXiv:1607.04690 [cs]'
+3KK6XJZX 'Ehrhard et al.' '2014' 'Probabilistic coherence spaces are fully abstract for probabilistic PCF' ''
+BX85ZNBK 'Ehrhard et al.' '2017-12-27' 'Measurable Cones and Stable, Measurable Functions' 'Proceedings of the ACM on Programming Languages'
+SF4DDPXM 'Ehrhard et al.' '2011' 'The Computational Meaning of Probabilistic Coherence Spaces' ''
+ECSZPVUV 'Elliott' '2018-10-02' 'The simple essence of automatic differentiation' 'arXiv:1804.00746 [cs]'
+BHSH5APZ 'Engeler' '1995' 'The Combinatory Programme' ''
+CTVUVAVH 'Engeler' '2008' 'Neural Algebra and Consciousness: A Theory of Structural Functionality in Neural Nets' ''
+U3W5BLQ9 'Eykholt et al.' '2018-04-10' 'Robust Physical-World Attacks on Deep Learning Models' 'arXiv:1707.08945 [cs]'
+HMH9AGZM 'Fages' '2014' 'Cells as Machines: Towards Deciphering Biochemical Programs in the Cell' ''
+K4WIXJBP 'Fages et al.' '2018-07' 'Influence Networks Compared with Reaction Networks: Semantics, Expressivity and Attractors' 'IEEE/ACM Trans. Comput. Biol. Bioinformatics'
+EJ9JU956 'Fages et al.' '2006' 'Machine Learning Biochemical Networks from Temporal Logic Properties' ''
+S3T9Z5S2 'Fages et al.' '2006-07-15' 'BIOCHAM: an environment for modeling biological systems and formalizing experimental knowledge' 'Bioinformatics'
+ZZQB4HY5 'Fiore' '2007' 'Differential Structure in Models of Multiplicative Biadditive Intuitionistic Linear Logic' ''
+UIUWYF6M 'Fiore et al.' '2008' 'The cartesian closed bicategory of generalised species of structures' 'Journal of the London Mathematical Society'
+77FPHH9C 'Fong' '2013-01-25' 'Causal Theories: A Categorical Perspective on Bayesian Networks' 'arXiv:1301.6201 [math]'
+GGM5SVZF 'Fong et al.' '2019-05-01' 'Backprop as Functor: A compositional perspective on supervised learning' 'arXiv:1711.10455 [cs, math]'
+4MYYECHF 'Fritz and Perrone' '2019-03-12' 'A Probability Monad as the Colimit of Spaces of Finite Samples' 'arXiv:1712.05363 [cs, math]'
+JGXTPTWA 'Ghahramani' '2015' 'Probabilistic machine learning and artificial intelligence' 'Nature'
+72YLWTPE 'Girard' '1995' 'On Geometry of Interaction' ''
+7FDBMCVR 'Girard' '1987-01-01' 'Linear logic' 'Theoretical Computer Science'
+55SDD7NP 'Giry' '1982' 'A categorical approach to probability theory' ''
+KAAZTIFZ 'Gómez' '2009' 'Modeling cognitive systems with Category Theory Towards rigor in cognitive sciences' ''
+2RPQ3E9E 'Goodfellow et al.' '2015-03-20' 'Explaining and Harnessing Adversarial Examples' 'arXiv:1412.6572 [cs, stat]'
+5K5LVC4N 'Goodfellow et al.' '2014-06-10' 'Generative Adversarial Networks' 'arXiv:1406.2661 [cs, stat]'
+XVE64LSJ 'Graves et al.' '2014-12-10' 'Neural Turing Machines' 'arXiv:1410.5401 [cs]'
+VSSFGZ4D 'Gromov' 'no date' 'Structures, Learning and Ergosystems: Chapters' ''
+LNI5QP9M 'Hamrick' '2019-10-01' 'Analogues of mental simulation and imagination in deep learning' 'Current Opinion in Behavioral Sciences'
+NCLYDKXG 'Harris' '2019-05-06' 'Characterizing the invariances of learning algorithms using category theory' 'arXiv:1905.02072 [cs, math, stat]'
+CM66MUGF 'Healy' '2000' 'Category theory applied to neural modeling and graphical representations' ''
+DYSAWCD6 'Healy and Caudell' '2004' 'Neural Networks, Knowledge and Cognition: A Mathematical Semantic Model Based upon Category Theory' ''
+5BG6WVIY 'Heckerman' '1995-03-01' 'A Tutorial on Learning With Bayesian Networks' ''
+SDBNZ63V 'Heller' '2019' 'Homunculus Brain and Categorical Logic' 'ArXiv'
+5TU82RVQ 'Hess et al.' '2017-06-12' 'Topological analysis of the connectome of digital reconstructions of neural microcircuits' 'Frontiers in Computational Neuroscience'
+SDVLBSJ4 'Hess et al.' '2016-03-28' 'Quantifying topological invariants of neuronal morphologies' 'arXiv:1603.08432 [cs, math, q-bio]'
+C58YG73J 'Hess et al.' '2017' 'Cliques of Neurons Bound into Cavities Provide a Missing Link between Structure and Function' 'Frontiers in Computational Neuroscience'
+6Y2BD4B3 'Heunen et al.' '2017-01-10' 'A Convenient Category for Higher-Order Probability Theory' 'arXiv:1701.02547 [cs, math]'
+PT43YUYX 'Hur et al.' 'no date' 'A Provably Correct Sampler for Probabilistic Programs' ''
+6PKZ5RW9 'Izbicki' '2013' 'Algebraic classifiers: a generic approach to fast cross-validation, online training, and parallel training' ''
+7VNFPN8R 'Jacobs' '2018-10-13' 'Categorical Aspects of Parameter Learning' 'arXiv:1810.05814 [cs]'
+CZUSV7HP 'Jacobs' '2018' 'From probability monads to commutative effectuses' 'Journal of Logical and Algebraic Methods in Programming'
+4XPCPUV8 'Jacobs' '2017-12-01' 'Quantum effect logic in cognition' 'Journal of Mathematical Psychology'
+P2JNU5VQ 'Jacobs' '2015-10-01' 'New Directions in Categorical Logic, for Classical, Probabilistic and Quantum Logic' 'Logical Methods in Computer Science'
+ETBD3ZVU 'Jacobs and Adams' '2015-11-30' 'A Type Theory for Probabilistic and Bayesian Reasoning' 'arXiv:1511.09230 [cs, math]'
+DR7FK7LU 'Jacobs and Cho' '2019' 'Disintegration and Bayesian Inversion via String Diagrams' 'Mathematical Structures in Computer Science'
+DZMWFL5G 'Jacobs and Furber' '2015-11-04' 'Towards a Categorical Account of Conditional Probability' 'Electronic Proceedings in Theoretical Computer Science'
+WIAV2FDY 'Jacobs and Sprunger' '2019-04-23' 'The differential calculus of causal functions' 'arXiv:1904.10611 [cs]'
+CTJC5W9R 'Jacobs and Sprunger' '2018-03-25' 'Neural Nets via Forward State Transformation and Backward Loss Transformation' 'arXiv:1803.09356 [cs]'
+JLVLWFX8 'Jacobs and Zanasi' '2017' 'A Formal Semantics of Influence in Bayesian Reasoning' 'Schloss Dagstuhl - Leibniz-Zentrum fuer Informatik GmbH, Wadern/Saarbruecken, Germany'
+AZGUC3XU 'Jacobs and Zanasi' '2018-04-27' 'The Logical Essentials of Bayesian Reasoning' 'arXiv:1804.01193 [cs]'
+JM7QPJDC 'Jacobs and Zanasi' '2016-10-05' 'A Predicate/State Transformer Semantics for Bayesian Learning' 'Electronic Notes in Theoretical Computer Science'
+MUSL3SSD 'Jacobs et al.' '2019-07-28' 'Causal Inference by String Diagram Surgery' 'arXiv:1811.08338 [cs, math]'
+WASH9H7L 'Jones' 'no date' 'Probabilistic Non-determinism' ''
+YN29B7LC 'Jones and Plotkin' '1989' 'A Probabilistic Powerdomain of Evaluations' ''
+FLHYI4GG 'Kammar et al.' 'no date' 'Diffeological Spaces and Denotational Semantics for Differential Programming' ''
+J2PFN7QN 'Kato and Struppa' '2002' 'Category Theory and Consciousness' ''
+IMUV9XQQ 'Keimel and Plotkin' '2009-06' 'Predicate Transformers for Extended Probability and Non-determinism' 'Mathematical. Structures in Comp. Sci.'
+P5FM4SNB 'Keimel and Plotkin' 'no date' 'Mixed powerdomains for probability and nondeterminism' 'arXiv:1612.01005 [cs]'
+JJIJSYMW 'Kerjean and Pacaud Lemay' '2019' 'Higher-Order Distributions for Differential Linear Logic' ''
+5NFK46NT 'Kurakin et al.' '2017-02-10' 'Adversarial examples in the physical world' 'arXiv:1607.02533 [cs, stat]'
+99MHBXUU 'Lack and Sobociński' '2005' 'Adhesive and quasiadhesive categories' 'RAIRO - Theoretical Informatics and Applications - Informatique Théorique et Applications'
+PJWUKXQF 'Law and Wilkinson' '2019-08-06' 'Functional probabilistic programming for scalable Bayesian modelling' 'arXiv:1908.02062 [stat]'
+U95PJ3CH 'Lawvere' '1994' 'Tools for the Advancement of Objective Logic: Closed Categories and Toposes' ''
+NRSD3EVJ 'Manzyuk' '2012-09-24' 'A Simply Typed λ-Calculus of Forward Automatic Differentiation' 'Electronic Notes in Theoretical Computer Science'
+SX4L3GTP 'Martin-Maroto and de Polavieja' '2018-03-14' 'Algebraic Machine Learning' 'arXiv:1803.05252 [cs, math]'
+WNARQJEG 'Mascari et al.' '2017-11' 'Symetries and asymetries of the immune system response: A categorification approach' ''
+G5PRW88S 'Mazzola' '2002' 'The Topos of Music: Geometric Logic of Concepts, Theory, and Performance' ''
+4LM37JW9 'McCullagh' '2002' 'What is a statistical model?' 'The Annals of Statistics'
+5S8LE5XY 'Murfet' '2018-04-29' 'dmurfet/polysemantics' ''
+33FLNFN9 'Murfet' '2019-10-14' 'dmurfet/2simplicialtransformer' ''
+AZ7AJDXL 'Murfet' '2018-07-14' 'dmurfet/deeplinearlogic' ''
+VM9IIN2Y 'Murfet' 'no date' 'Mathematics of AlphaGo' ''
+6RKMAGK2 'Murfet' 'no date' 'Algebra and Artiﬁcial Intelligence' ''
+4VJBPME5 'Murfet and Clift' '2019-01-28' 'Derivatives of Turing machines in Linear Logic' 'arXiv:1805.11813 [math]'
+FJUM4LF6 'Murfet and Hu' 'no date' 'Linear logic and deep learning' ''
+LZAZA7A9 'Murfet et al.' '2019-09-02' 'Logic and the $2$-Simplicial Transformer' 'arXiv:1909.00668 [cs, stat]'
+WSAF3XN8 'Olah and Carter' '2016-09-08' 'Attention and Augmented Recurrent Neural Networks' 'Distill'
+WPIASHZ3 'Panangaden' '2009' 'Labelled Markov Processes' ''
+UP5DR7RS 'Paquet and Winskel' '2018-12-01' 'Continuous Probability Distributions in Concurrent Games' 'Electronic Notes in Theoretical Computer Science'
+INE4FYMZ 'Paul and Venkatasubramanian' '2015-02-28' 'Why does Deep Learning work? - A perspective from Group Theory' 'arXiv:1412.6621 [cs, stat]'
+JHT4MANU 'Philipona et al.' '2003-10-01' 'Is There Something Out There? Inferring Space from Sensorimotor Dependencies' 'Neural computation'
+63SX3AAK 'Plotkin' '1977-12-01' 'LCF considered as a programming language' 'Theoretical Computer Science'
+BVT7FALB 'Poggio' '2013' 'Tomaso A. Poggio autobiography' ''
+97B5BHBH 'Rosen' '1958' 'The representation of biological systems from the standpoint of the theory of categories' 'The Bulletin of Mathematical Biophysics'
+WC7HH6HX 'Rutten' '2000-10-17' 'Universal coalgebra: a theory of systems' 'Theoretical Computer Science'
+X74A2Q5A 'Ścibior et al.' '2017-12-27' 'Denotational validation of higher-order Bayesian inference' 'Proceedings of the ACM on Programming Languages'
+UZWRD7LR 'Ścibior et al.' '2015' 'Practical Probabilistic Programming with Monads' ''
+4XR8PJVE 'Ścibior et al.' '2018-07-30' 'Functional programming for modular Bayesian inference' 'Proceedings of the ACM on Programming Languages'
+96LTXE77 'Serafini and Garcez' '2016-07-07' 'Logic Tensor Networks: Deep Learning and Logical Reasoning from Data and Knowledge' 'arXiv:1606.04422 [cs]'
+R95KCFHA 'Siegelmann and Sontag' '1995-02-01' 'On the Computational Power of Neural Nets' 'Journal of Computer and System Sciences'
+RDERMU2A 'Sizemore et al.' '2016-12-20' 'Cliques and Cavities in the Human Connectome' 'arXiv:1608.03520 [math, q-bio]'
+GZPYX9ML 'Sokolova' '2011-09-02' 'Probabilistic systems coalgebraically: A survey' 'Theoretical Computer Science'
+RH3H5DB7 'Sokolova and de Vink' '2004' 'Probabilistic Automata: System Types, Parallel Composition and Comparison' ''
+GZA9CWI9 'Sprunger and Katsumata' '2019' 'Differentiable Causal Computations via Delayed Trace' ''
+SADEY5LT 'Staton' '2017' 'Commutative Semantics for Probabilistic Programming' ''
+WSJTZAJ5 'Staton et al.' '2016' 'Semantics for probabilistic programming: higher-order functions, continuous distributions, and soft constraints' 'Proceedings of the 31st Annual ACM/IEEE Symposium on Logic in Computer Science - LICS 16'
+2R3YRWF6 'Tix et al.' '2009' 'Semantic Domains for Combining Probability and Non-Determinism' 'Electronic Notes in Theoretical Computer Science'
+UJLZT9PW 'Tran et al.' '2017-03-07' 'Deep Probabilistic Programming' 'arXiv:1701.03757 [cs, stat]'
+6BJMBQD4 'Tsuchiya et al.' '2016-06-01' 'Using category theory to assess the relationship between consciousness and integrated information theory' 'Neuroscience Research'
+QQVMNZ9Z 'Tuyéras' '2018-12-13' 'Category theory for genetics I: mutations and sequence alignments' 'arXiv:1805.07002 [math]'
+TY3Z4LB5 'Tuyéras' '2018-08-01' 'Category theory for genetics II: genotype, phenotype and haplotype' 'arXiv:1805.07004 [math]'
+JLHHU9BP 'Tuyéras' '2018-05-17' 'Category Theory for Genetics' 'arXiv:1708.05255 [math]'
+WQEPI5LQ 'Vákár et al.' '2018-11-10' 'A Domain Theory for Statistical Probabilistic Programming' 'arXiv:1811.04196 [cs]'
+78DNS3Y6 'van Breugel et al.' '2005-03-01' 'Domain theory, testing and simulation for labelled Markov processes' 'Theoretical Computer Science'
+F8ECAU98 'Varacca and Winskel' '2006-02-21' 'Distributing probability over non-determinism' 'Mathematical Structures in Computer Science'
+MHIXCAVL 'Vytiniotis et al.' '2019-09-20' 'The Differentiable Curry' ''
+5M4XZQGR 'Watanabe' '2009-08' 'Algebraic Geometry and Statistical Learning Theory' ''
+AATRSKBL 'Wermuth and Cox' '2001-01-01' 'Graphical Models: Overview' ''
+47ZDYVQW 'Wilkinson' '2006-04-18' 'Stochastic Modelling for Systems Biology' ''
+E4T7S97P 'Wilkinson' '2019-08-07' 'Write your own general-purpose monadic probabilistic programming language from scratch in 50 lines of (Scala) code' ''
+AJZVQFV3 'Wilkinson' 'no date' 'A compositional approach to scalable Bayesian computation and probabilistic programming' ''
+NNQTMK5M 'Winn' '2019-06' 'Model-Based Machine Learning' ''
+82A972Q8 'Zhang et al.' '2017-02-26' 'Understanding deep learning requires rethinking generalization' 'arXiv:1611.03530 [cs]'
+*tie data 
+from to related
+M57GJBPI 72YLWTPE 1
+M57GJBPI 7FDBMCVR 1
+M57GJBPI NR73ULRM 1
+CZZ2XX98 G5PRW88S 1
+CZZ2XX98 NLYWA8LV 1
+CZZ2XX98 VGQW4TCY 1
+NLYWA8LV M7MTGMYF 1
+NLYWA8LV CZZ2XX98 1
+NLYWA8LV VGQW4TCY 1
+NLYWA8LV ZSQSX5Z4 1
+UEPY899P JLHHU9BP 1
+NJJ973VS WC7HH6HX 1
+NJJ973VS WASH9H7L 1
+NJJ973VS GZPYX9ML 1
+NJJ973VS VWWVS23T 1
+NJJ973VS RH3H5DB7 1
+2SF4HXU2 AATRSKBL 1
+GJM77Q9K SADEY5LT 1
+GJM77Q9K 5BG6WVIY 1
+TAVCTA3B ECSZPVUV 1
+TAVCTA3B FLHYI4GG 1
+TAVCTA3B XVE64LSJ 1
+TAVCTA3B MHIXCAVL 1
+TAVCTA3B WIAV2FDY 1
+J8JZZA9M ZZQB4HY5 1
+J8JZZA9M FV5LDYQ8 1
+J8JZZA9M 7FDBMCVR 1
+J8JZZA9M PV3KNRMI 1
+J8JZZA9M CEDIC9GM 1
+FV5LDYQ8 MHIXCAVL 1
+FV5LDYQ8 PV3KNRMI 1
+FV5LDYQ8 NRSD3EVJ 1
+FV5LDYQ8 J8JZZA9M 1
+FV5LDYQ8 NZACPAF3 1
+FV5LDYQ8 7FDBMCVR 1
+2QNGGQ9S WSJTZAJ5 1
+2QNGGQ9S BX85ZNBK 1
+2QNGGQ9S SADEY5LT 1
+2QNGGQ9S X74A2Q5A 1
+C6JKS3XF 47ZDYVQW 1
+C6JKS3XF 8ZG2Q8M6 1
+C6JKS3XF ZSQSX5Z4 1
+C6JKS3XF PY9KP68T 1
+C6JKS3XF S3T9Z5S2 1
+PY9KP68T HMH9AGZM 1
+PY9KP68T C6JKS3XF 1
+PY9KP68T 47ZDYVQW 1
+PY9KP68T 8ZG2Q8M6 1
+ZSQSX5Z4 NLYWA8LV 1
+ZSQSX5Z4 C6JKS3XF 1
+K6XGAUQB 2RPQ3E9E 1
+K6XGAUQB U3W5BLQ9 1
+K6XGAUQB 5NFK46NT 1
+6E5G37Y8 63SX3AAK 1
+6E5G37Y8 UP5DR7RS 1
+6E5G37Y8 9U834V9S 1
+2XU4WNRW P2JNU5VQ 1
+2XU4WNRW JM7QPJDC 1
+2XU4WNRW 55SDD7NP 1
+2XU4WNRW CZUSV7HP 1
+2XU4WNRW CTJC5W9R 1
+2XU4WNRW DZMWFL5G 1
+2XU4WNRW ETBD3ZVU 1
+2XU4WNRW 4XPCPUV8 1
+XWGUNSSB 55SDD7NP 1
+XWGUNSSB 7VNFPN8R 1
+XWGUNSSB DR7FK7LU 1
+58Y4A3DE AJZVQFV3 1
+58Y4A3DE 55SDD7NP 1
+58Y4A3DE DR7FK7LU 1
+58Y4A3DE AZGUC3XU 1
+58Y4A3DE 7VNFPN8R 1
+58Y4A3DE NCLYDKXG 1
+58Y4A3DE DZMWFL5G 1
+NR73ULRM M57GJBPI 1
+NR73ULRM 9U834V9S 1
+NR73ULRM 7FDBMCVR 1
+9U834V9S 6E5G37Y8 1
+9U834V9S YN29B7LC 1
+9U834V9S 63SX3AAK 1
+9U834V9S NR73ULRM 1
+9U834V9S UP5DR7RS 1
+8ZG2Q8M6 C6JKS3XF 1
+8ZG2Q8M6 99MHBXUU 1
+8ZG2Q8M6 PY9KP68T 1
+VWWVS23T DE76QJUW 1
+VWWVS23T 55SDD7NP 1
+VWWVS23T NJJ973VS 1
+VWWVS23T WC7HH6HX 1
+DE76QJUW WPIASHZ3 1
+DE76QJUW 78DNS3Y6 1
+DE76QJUW VWWVS23T 1
+TMXD5LPP 96LTXE77 1
+TMXD5LPP LZAZA7A9 1
+TMXD5LPP XVE64LSJ 1
+VGQW4TCY M7MTGMYF 1
+VGQW4TCY NLYWA8LV 1
+VGQW4TCY 5GJLBF7K 1
+VGQW4TCY CZZ2XX98 1
+VGQW4TCY KAAZTIFZ 1
+M7MTGMYF SDBNZ63V 1
+M7MTGMYF 5GJLBF7K 1
+M7MTGMYF JLHHU9BP 1
+M7MTGMYF VGQW4TCY 1
+M7MTGMYF NLYWA8LV 1
+5GJLBF7K VGQW4TCY 1
+5GJLBF7K M7MTGMYF 1
+5GJLBF7K KAAZTIFZ 1
+H7Y7YZ4L PV3KNRMI 1
+H7Y7YZ4L 3KK6XJZX 1
+H7Y7YZ4L SF4DDPXM 1
+H7Y7YZ4L CEDIC9GM 1
+H7Y7YZ4L HC3Q9Q86 1
+CEDIC9GM JJIJSYMW 1
+CEDIC9GM H7Y7YZ4L 1
+CEDIC9GM ZZQB4HY5 1
+CEDIC9GM J8JZZA9M 1
+CEDIC9GM UIUWYF6M 1
+CEDIC9GM NZACPAF3 1
+CEDIC9GM 7FDBMCVR 1
+CEDIC9GM PV3KNRMI 1
+HC3Q9Q86 H7Y7YZ4L 1
+HC3Q9Q86 63SX3AAK 1
+HC3Q9Q86 SF4DDPXM 1
+HC3Q9Q86 3KK6XJZX 1
+PV3KNRMI H7Y7YZ4L 1
+PV3KNRMI CEDIC9GM 1
+PV3KNRMI UIUWYF6M 1
+PV3KNRMI FV5LDYQ8 1
+PV3KNRMI NRSD3EVJ 1
+PV3KNRMI 7FDBMCVR 1
+PV3KNRMI J8JZZA9M 1
+PV3KNRMI ZZQB4HY5 1
+PV3KNRMI NZACPAF3 1
+PV3KNRMI MHIXCAVL 1
+PV3KNRMI 4VJBPME5 1
+NZACPAF3 CEDIC9GM 1
+NZACPAF3 7FDBMCVR 1
+NZACPAF3 PV3KNRMI 1
+NZACPAF3 FV5LDYQ8 1
+NZACPAF3 ZZQB4HY5 1
+NZACPAF3 UIUWYF6M 1
+RE3KFCZ8 BX85ZNBK 1
+RE3KFCZ8 7FDBMCVR 1
+RE3KFCZ8 63SX3AAK 1
+RE3KFCZ8 3KK6XJZX 1
+RE3KFCZ8 SF4DDPXM 1
+3KK6XJZX HC3Q9Q86 1
+3KK6XJZX 63SX3AAK 1
+3KK6XJZX H7Y7YZ4L 1
+3KK6XJZX BX85ZNBK 1
+3KK6XJZX RE3KFCZ8 1
+3KK6XJZX SF4DDPXM 1
+BX85ZNBK 2QNGGQ9S 1
+BX85ZNBK 55SDD7NP 1
+BX85ZNBK RE3KFCZ8 1
+BX85ZNBK SF4DDPXM 1
+BX85ZNBK SADEY5LT 1
+BX85ZNBK WSJTZAJ5 1
+BX85ZNBK 3KK6XJZX 1
+BX85ZNBK 63SX3AAK 1
+SF4DDPXM H7Y7YZ4L 1
+SF4DDPXM RE3KFCZ8 1
+SF4DDPXM YN29B7LC 1
+SF4DDPXM BX85ZNBK 1
+SF4DDPXM 3KK6XJZX 1
+SF4DDPXM HC3Q9Q86 1
+SF4DDPXM 63SX3AAK 1
+ECSZPVUV TAVCTA3B 1
+ECSZPVUV MHIXCAVL 1
+BHSH5APZ CTVUVAVH 1
+CTVUVAVH BHSH5APZ 1
+CTVUVAVH VSSFGZ4D 1
+CTVUVAVH J2PFN7QN 1
+U3W5BLQ9 2RPQ3E9E 1
+U3W5BLQ9 5NFK46NT 1
+U3W5BLQ9 K6XGAUQB 1
+HMH9AGZM PY9KP68T 1
+HMH9AGZM S3T9Z5S2 1
+HMH9AGZM K4WIXJBP 1
+K4WIXJBP HMH9AGZM 1
+K4WIXJBP S3T9Z5S2 1
+EJ9JU956 S3T9Z5S2 1
+S3T9Z5S2 K4WIXJBP 1
+S3T9Z5S2 C6JKS3XF 1
+S3T9Z5S2 HMH9AGZM 1
+S3T9Z5S2 EJ9JU956 1
+ZZQB4HY5 UIUWYF6M 1
+ZZQB4HY5 NZACPAF3 1
+ZZQB4HY5 CEDIC9GM 1
+ZZQB4HY5 7FDBMCVR 1
+ZZQB4HY5 J8JZZA9M 1
+ZZQB4HY5 PV3KNRMI 1
+UIUWYF6M NZACPAF3 1
+UIUWYF6M ZZQB4HY5 1
+UIUWYF6M PV3KNRMI 1
+UIUWYF6M CEDIC9GM 1
+UIUWYF6M 7FDBMCVR 1
+77FPHH9C 55SDD7NP 1
+77FPHH9C MUSL3SSD 1
+GGM5SVZF AJZVQFV3 1
+GGM5SVZF NCLYDKXG 1
+GGM5SVZF CTJC5W9R 1
+4MYYECHF CZUSV7HP 1
+JGXTPTWA UJLZT9PW 1
+72YLWTPE M57GJBPI 1
+72YLWTPE 7FDBMCVR 1
+7FDBMCVR CEDIC9GM 1
+7FDBMCVR NR73ULRM 1
+7FDBMCVR M57GJBPI 1
+7FDBMCVR J8JZZA9M 1
+7FDBMCVR NZACPAF3 1
+7FDBMCVR ZZQB4HY5 1
+7FDBMCVR 72YLWTPE 1
+7FDBMCVR RE3KFCZ8 1
+7FDBMCVR UIUWYF6M 1
+7FDBMCVR JJIJSYMW 1
+7FDBMCVR FV5LDYQ8 1
+7FDBMCVR 4VJBPME5 1
+7FDBMCVR AZ7AJDXL 1
+7FDBMCVR PV3KNRMI 1
+7FDBMCVR FJUM4LF6 1
+55SDD7NP VWWVS23T 1
+55SDD7NP 7VNFPN8R 1
+55SDD7NP BX85ZNBK 1
+55SDD7NP XWGUNSSB 1
+55SDD7NP 2XU4WNRW 1
+55SDD7NP 6Y2BD4B3 1
+55SDD7NP 77FPHH9C 1
+55SDD7NP DR7FK7LU 1
+55SDD7NP JM7QPJDC 1
+55SDD7NP SADEY5LT 1
+55SDD7NP DZMWFL5G 1
+55SDD7NP 78DNS3Y6 1
+55SDD7NP 58Y4A3DE 1
+KAAZTIFZ CM66MUGF 1
+KAAZTIFZ SDBNZ63V 1
+KAAZTIFZ VGQW4TCY 1
+KAAZTIFZ 5GJLBF7K 1
+2RPQ3E9E 5K5LVC4N 1
+2RPQ3E9E U3W5BLQ9 1
+2RPQ3E9E K6XGAUQB 1
+2RPQ3E9E 5NFK46NT 1
+5K5LVC4N 2RPQ3E9E 1
+5K5LVC4N UJLZT9PW 1
+XVE64LSJ TAVCTA3B 1
+XVE64LSJ WSAF3XN8 1
+XVE64LSJ TMXD5LPP 1
+XVE64LSJ LZAZA7A9 1
+VSSFGZ4D 6BJMBQD4 1
+VSSFGZ4D DYSAWCD6 1
+VSSFGZ4D CTVUVAVH 1
+VSSFGZ4D 97B5BHBH 1
+LNI5QP9M BVT7FALB 1
+NCLYDKXG GGM5SVZF 1
+NCLYDKXG BVT7FALB 1
+NCLYDKXG 4LM37JW9 1
+NCLYDKXG 58Y4A3DE 1
+CM66MUGF SDBNZ63V 1
+CM66MUGF DYSAWCD6 1
+CM66MUGF KAAZTIFZ 1
+DYSAWCD6 CM66MUGF 1
+DYSAWCD6 VSSFGZ4D 1
+5BG6WVIY GJM77Q9K 1
+5BG6WVIY NNQTMK5M 1
+SDBNZ63V 97B5BHBH 1
+SDBNZ63V M7MTGMYF 1
+SDBNZ63V KAAZTIFZ 1
+SDBNZ63V CM66MUGF 1
+5TU82RVQ C58YG73J 1
+5TU82RVQ SDVLBSJ4 1
+5TU82RVQ RDERMU2A 1
+SDVLBSJ4 5TU82RVQ 1
+SDVLBSJ4 C58YG73J 1
+C58YG73J SDVLBSJ4 1
+C58YG73J 5TU82RVQ 1
+6Y2BD4B3 WSJTZAJ5 1
+6Y2BD4B3 X74A2Q5A 1
+6Y2BD4B3 SADEY5LT 1
+6Y2BD4B3 WQEPI5LQ 1
+6Y2BD4B3 55SDD7NP 1
+6Y2BD4B3 AJZVQFV3 1
+PT43YUYX X74A2Q5A 1
+6PKZ5RW9 5M4XZQGR 1
+7VNFPN8R XWGUNSSB 1
+7VNFPN8R 55SDD7NP 1
+7VNFPN8R 58Y4A3DE 1
+CZUSV7HP 4MYYECHF 1
+CZUSV7HP 2XU4WNRW 1
+CZUSV7HP P2JNU5VQ 1
+4XPCPUV8 2XU4WNRW 1
+4XPCPUV8 P2JNU5VQ 1
+4XPCPUV8 ETBD3ZVU 1
+P2JNU5VQ JM7QPJDC 1
+P2JNU5VQ CZUSV7HP 1
+P2JNU5VQ 2XU4WNRW 1
+P2JNU5VQ CTJC5W9R 1
+P2JNU5VQ ETBD3ZVU 1
+P2JNU5VQ DZMWFL5G 1
+P2JNU5VQ 4XPCPUV8 1
+ETBD3ZVU 2XU4WNRW 1
+ETBD3ZVU P2JNU5VQ 1
+ETBD3ZVU 4XPCPUV8 1
+ETBD3ZVU DR7FK7LU 1
+ETBD3ZVU AZGUC3XU 1
+DR7FK7LU 58Y4A3DE 1
+DR7FK7LU 55SDD7NP 1
+DR7FK7LU ETBD3ZVU 1
+DR7FK7LU XWGUNSSB 1
+DR7FK7LU SADEY5LT 1
+DR7FK7LU WSJTZAJ5 1
+DR7FK7LU MUSL3SSD 1
+DZMWFL5G 2XU4WNRW 1
+DZMWFL5G P2JNU5VQ 1
+DZMWFL5G 55SDD7NP 1
+DZMWFL5G 58Y4A3DE 1
+WIAV2FDY GZA9CWI9 1
+WIAV2FDY TAVCTA3B 1
+CTJC5W9R 2XU4WNRW 1
+CTJC5W9R P2JNU5VQ 1
+CTJC5W9R GGM5SVZF 1
+JLVLWFX8 AZGUC3XU 1
+AZGUC3XU 58Y4A3DE 1
+AZGUC3XU NNQTMK5M 1
+AZGUC3XU ETBD3ZVU 1
+AZGUC3XU JLVLWFX8 1
+AZGUC3XU MUSL3SSD 1
+JM7QPJDC 55SDD7NP 1
+JM7QPJDC 2XU4WNRW 1
+JM7QPJDC P2JNU5VQ 1
+JM7QPJDC MUSL3SSD 1
+MUSL3SSD JM7QPJDC 1
+MUSL3SSD 77FPHH9C 1
+MUSL3SSD DR7FK7LU 1
+MUSL3SSD AZGUC3XU 1
+WASH9H7L F8ECAU98 1
+WASH9H7L IMUV9XQQ 1
+WASH9H7L 78DNS3Y6 1
+WASH9H7L YN29B7LC 1
+WASH9H7L NJJ973VS 1
+YN29B7LC 2R3YRWF6 1
+YN29B7LC WASH9H7L 1
+YN29B7LC F8ECAU98 1
+YN29B7LC IMUV9XQQ 1
+YN29B7LC SF4DDPXM 1
+YN29B7LC P5FM4SNB 1
+YN29B7LC 78DNS3Y6 1
+YN29B7LC 9U834V9S 1
+YN29B7LC WQEPI5LQ 1
+FLHYI4GG TAVCTA3B 1
+FLHYI4GG WQEPI5LQ 1
+J2PFN7QN U95PJ3CH 1
+J2PFN7QN 6BJMBQD4 1
+J2PFN7QN CTVUVAVH 1
+IMUV9XQQ WASH9H7L 1
+IMUV9XQQ 2R3YRWF6 1
+IMUV9XQQ YN29B7LC 1
+IMUV9XQQ WQEPI5LQ 1
+P5FM4SNB YN29B7LC 1
+JJIJSYMW CEDIC9GM 1
+JJIJSYMW 7FDBMCVR 1
+5NFK46NT 2RPQ3E9E 1
+5NFK46NT K6XGAUQB 1
+5NFK46NT U3W5BLQ9 1
+99MHBXUU 8ZG2Q8M6 1
+PJWUKXQF UZWRD7LR 1
+PJWUKXQF 4XR8PJVE 1
+PJWUKXQF X74A2Q5A 1
+PJWUKXQF E4T7S97P 1
+PJWUKXQF SADEY5LT 1
+U95PJ3CH J2PFN7QN 1
+NRSD3EVJ FV5LDYQ8 1
+NRSD3EVJ MHIXCAVL 1
+NRSD3EVJ PV3KNRMI 1
+WNARQJEG JLHHU9BP 1
+G5PRW88S CZZ2XX98 1
+4LM37JW9 82A972Q8 1
+4LM37JW9 5M4XZQGR 1
+4LM37JW9 NCLYDKXG 1
+4LM37JW9 WQEPI5LQ 1
+5S8LE5XY FJUM4LF6 1
+33FLNFN9 LZAZA7A9 1
+AZ7AJDXL 7FDBMCVR 1
+AZ7AJDXL FJUM4LF6 1
+VM9IIN2Y 6RKMAGK2 1
+6RKMAGK2 FJUM4LF6 1
+6RKMAGK2 VM9IIN2Y 1
+4VJBPME5 7FDBMCVR 1
+4VJBPME5 R95KCFHA 1
+4VJBPME5 PV3KNRMI 1
+4VJBPME5 LZAZA7A9 1
+FJUM4LF6 5S8LE5XY 1
+FJUM4LF6 AZ7AJDXL 1
+FJUM4LF6 WSAF3XN8 1
+FJUM4LF6 7FDBMCVR 1
+FJUM4LF6 6RKMAGK2 1
+LZAZA7A9 33FLNFN9 1
+LZAZA7A9 96LTXE77 1
+LZAZA7A9 TMXD5LPP 1
+LZAZA7A9 XVE64LSJ 1
+LZAZA7A9 4VJBPME5 1
+WSAF3XN8 MHIXCAVL 1
+WSAF3XN8 GZA9CWI9 1
+WSAF3XN8 UJLZT9PW 1
+WSAF3XN8 XVE64LSJ 1
+WSAF3XN8 FJUM4LF6 1
+WSAF3XN8 BVT7FALB 1
+WPIASHZ3 78DNS3Y6 1
+WPIASHZ3 DE76QJUW 1
+WPIASHZ3 RH3H5DB7 1
+UP5DR7RS 9U834V9S 1
+UP5DR7RS 6E5G37Y8 1
+63SX3AAK RE3KFCZ8 1
+63SX3AAK BX85ZNBK 1
+63SX3AAK SF4DDPXM 1
+63SX3AAK 6E5G37Y8 1
+63SX3AAK 9U834V9S 1
+63SX3AAK 3KK6XJZX 1
+63SX3AAK HC3Q9Q86 1
+63SX3AAK WQEPI5LQ 1
+BVT7FALB 82A972Q8 1
+BVT7FALB WSAF3XN8 1
+BVT7FALB LNI5QP9M 1
+BVT7FALB NCLYDKXG 1
+97B5BHBH VSSFGZ4D 1
+97B5BHBH SDBNZ63V 1
+WC7HH6HX VWWVS23T 1
+WC7HH6HX NJJ973VS 1
+WC7HH6HX GZPYX9ML 1
+X74A2Q5A SADEY5LT 1
+X74A2Q5A WSJTZAJ5 1
+X74A2Q5A PT43YUYX 1
+X74A2Q5A UZWRD7LR 1
+X74A2Q5A 2QNGGQ9S 1
+X74A2Q5A PJWUKXQF 1
+X74A2Q5A 4XR8PJVE 1
+X74A2Q5A 6Y2BD4B3 1
+X74A2Q5A WQEPI5LQ 1
+UZWRD7LR UJLZT9PW 1
+UZWRD7LR PJWUKXQF 1
+UZWRD7LR AJZVQFV3 1
+UZWRD7LR 4XR8PJVE 1
+UZWRD7LR E4T7S97P 1
+UZWRD7LR X74A2Q5A 1
+4XR8PJVE PJWUKXQF 1
+4XR8PJVE AJZVQFV3 1
+4XR8PJVE X74A2Q5A 1
+4XR8PJVE SADEY5LT 1
+4XR8PJVE UZWRD7LR 1
+4XR8PJVE E4T7S97P 1
+96LTXE77 LZAZA7A9 1
+96LTXE77 TMXD5LPP 1
+R95KCFHA 4VJBPME5 1
+RDERMU2A 5TU82RVQ 1
+GZPYX9ML WC7HH6HX 1
+GZPYX9ML RH3H5DB7 1
+GZPYX9ML NJJ973VS 1
+RH3H5DB7 GZPYX9ML 1
+RH3H5DB7 NJJ973VS 1
+RH3H5DB7 WPIASHZ3 1
+GZA9CWI9 WIAV2FDY 1
+GZA9CWI9 WSAF3XN8 1
+SADEY5LT 2QNGGQ9S 1
+SADEY5LT BX85ZNBK 1
+SADEY5LT WSJTZAJ5 1
+SADEY5LT 55SDD7NP 1
+SADEY5LT GJM77Q9K 1
+SADEY5LT 4XR8PJVE 1
+SADEY5LT PJWUKXQF 1
+SADEY5LT X74A2Q5A 1
+SADEY5LT 6Y2BD4B3 1
+SADEY5LT WQEPI5LQ 1
+SADEY5LT DR7FK7LU 1
+WSJTZAJ5 2QNGGQ9S 1
+WSJTZAJ5 BX85ZNBK 1
+WSJTZAJ5 6Y2BD4B3 1
+WSJTZAJ5 WQEPI5LQ 1
+WSJTZAJ5 X74A2Q5A 1
+WSJTZAJ5 SADEY5LT 1
+WSJTZAJ5 DR7FK7LU 1
+2R3YRWF6 F8ECAU98 1
+2R3YRWF6 YN29B7LC 1
+2R3YRWF6 IMUV9XQQ 1
+UJLZT9PW JGXTPTWA 1
+UJLZT9PW 5K5LVC4N 1
+UJLZT9PW UZWRD7LR 1
+UJLZT9PW WSAF3XN8 1
+6BJMBQD4 J2PFN7QN 1
+6BJMBQD4 VSSFGZ4D 1
+QQVMNZ9Z TY3Z4LB5 1
+QQVMNZ9Z JLHHU9BP 1
+TY3Z4LB5 JLHHU9BP 1
+TY3Z4LB5 QQVMNZ9Z 1
+JLHHU9BP QQVMNZ9Z 1
+JLHHU9BP TY3Z4LB5 1
+JLHHU9BP WNARQJEG 1
+JLHHU9BP UEPY899P 1
+JLHHU9BP M7MTGMYF 1
+WQEPI5LQ WSJTZAJ5 1
+WQEPI5LQ SADEY5LT 1
+WQEPI5LQ X74A2Q5A 1
+WQEPI5LQ IMUV9XQQ 1
+WQEPI5LQ FLHYI4GG 1
+WQEPI5LQ 4LM37JW9 1
+WQEPI5LQ YN29B7LC 1
+WQEPI5LQ 63SX3AAK 1
+WQEPI5LQ 6Y2BD4B3 1
+78DNS3Y6 55SDD7NP 1
+78DNS3Y6 DE76QJUW 1
+78DNS3Y6 WPIASHZ3 1
+78DNS3Y6 WASH9H7L 1
+78DNS3Y6 YN29B7LC 1
+F8ECAU98 2R3YRWF6 1
+F8ECAU98 WASH9H7L 1
+F8ECAU98 YN29B7LC 1
+MHIXCAVL TAVCTA3B 1
+MHIXCAVL ECSZPVUV 1
+MHIXCAVL PV3KNRMI 1
+MHIXCAVL FV5LDYQ8 1
+MHIXCAVL NRSD3EVJ 1
+MHIXCAVL WSAF3XN8 1
+5M4XZQGR 6PKZ5RW9 1
+5M4XZQGR 4LM37JW9 1
+AATRSKBL NNQTMK5M 1
+AATRSKBL 2SF4HXU2 1
+47ZDYVQW PY9KP68T 1
+47ZDYVQW C6JKS3XF 1
+E4T7S97P 4XR8PJVE 1
+E4T7S97P PJWUKXQF 1
+E4T7S97P AJZVQFV3 1
+E4T7S97P UZWRD7LR 1
+AJZVQFV3 58Y4A3DE 1
+AJZVQFV3 6Y2BD4B3 1
+AJZVQFV3 UZWRD7LR 1
+AJZVQFV3 4XR8PJVE 1
+AJZVQFV3 GGM5SVZF 1
+AJZVQFV3 E4T7S97P 1
+NNQTMK5M AATRSKBL 1
+NNQTMK5M AZGUC3XU 1
+NNQTMK5M 5BG6WVIY 1
+82A972Q8 BVT7FALB 1
+82A972Q8 4LM37JW9 1

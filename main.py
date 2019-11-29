@@ -3,7 +3,7 @@ from io import StringIO
 import re
 import replit
 
-filename = 'zotnet2.vna'
+filename = 'zotnet.vna'
 
 nodes_list, edges_list = [], [["Source", "Target"]]
 reading_nodes, reading_edges = True, False
